@@ -54,6 +54,6 @@ Q - Изход от екрана
 игри, видеоигри, games, Bulgarian, Plovdiv, Cherepogon, Черепогон, Skullchaser, video game, Пловдив
 
 
-
-//Системна лента ДосБокс: https://youtu.be/Zhdm5Ilpg_U
 Без сист.лента (черно горе): https://youtu.be/Zhdm5Ilpg_U
+
+//Системна лента ДосБокс: https://youtu.be/BcxVPYB3x2s
