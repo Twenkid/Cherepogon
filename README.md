@@ -10,7 +10,7 @@
 
 
 
-Версия алфа от видеото: https://youtu.be/Zhdm5Ilpg_U
+Версия алфа от видеото: https://youtu.be/BcxVPYB3x2s
 
 Системни изисквания: DOS X.X, CPU 8086/286?, VGA 320x200x256 цвята от палитра (mode $13)
 Разработвана е на Turbo Pascal и Асемблер. Имаше собствен редактор за шрифта, нива и спрайтовете - за оръжията и за човечетата.
@@ -54,6 +54,7 @@ Q - Изход от екрана
 игри, видеоигри, games, Bulgarian, Plovdiv, Cherepogon, Черепогон, Skullchaser, video game, Пловдив
 
 
-Без сист.лента (черно горе): https://youtu.be/Zhdm5Ilpg_U
+Без сист.лента (черно горе):  https://youtu.be/BcxVPYB3x2s
 
-//Системна лента ДосБокс: https://youtu.be/BcxVPYB3x2s
+ 
+//Системна лента ДосБок, друго озвучаване: https://youtu.be/Zhdm5Ilpg_U
