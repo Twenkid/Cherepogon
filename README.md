@@ -57,4 +57,4 @@ Q - Изход от екрана
 Без сист.лента (черно горе):  https://youtu.be/BcxVPYB3x2s
 
  
-//Системна лента ДосБок, друго озвучаване: https://youtu.be/Zhdm5Ilpg_U
+//Системна лента ДосБок: https://youtu.be/Zhdm5Ilpg_U
